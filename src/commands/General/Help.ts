@@ -45,7 +45,7 @@ export default class Command extends BaseCommand {
 			}
 			let text = `👋🏻 (🦋ω🦋) Konichiwa! *@${
 				user.split("@")[0]
-			}*, I'm 🌺Elaina 🌺.\n\nMy prefix is - "${
+			}*, I'm 🌺Elaina 🌺 A Bot Build to make your WhatsApp enyoyable.\n\nMy prefix is - "${
 				this.client.config.prefix
 			}"\n\nThe usable commands are listed below.\n\n`;
 			const keys = Object.keys(categories);
