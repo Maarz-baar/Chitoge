@@ -92,8 +92,8 @@ export default class MessageHandler {
 		);
 		if (!command)
 			return void M.reply(
-				`No such command, Baka! Have you never seen someone use the command *${this.client.config.prefix}help*.`
-			);
+				`_Ah Shit man you don't know how to type  *${this.client.config.prefix}help* Well Fine in that case you will die here `
+		);
 		const user = await this.client.getUser(M.sender.jid);
 		if (user.ban) return void M.reply("You're Banned from using commands.");
 		const state = await this.client.DB.disabledcommands.findOne({
@@ -111,11 +111,11 @@ export default class MessageHandler {
 			command.config?.modsOnly &&
 			!this.client.config.mods?.includes(M.sender.jid)
 		) {
-			return void M.reply(`Only MODS are allowed to use this command.`);
+			return void M.reply(`Know your place Fool Only MODS are allowed to use this command.`);
 		}
 		if (command.config?.adminOnly && !M.sender.isAdmin)
 			return void M.reply(
-				`This command is only meant for the group admins, Baka!`
+				`Know Your Place Fool This command is only meant for the group admins, Baka!`
 			);
 		try {
 			await command.run(M, this.parseArgs(args));
