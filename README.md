@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://coolwallpapers.me/th700/5060382-elaina-the-journey-of-elaina-majo-no-tabitabi-the-journey-of-elaina.jpg"><img src="https://wallpaperaccess.com/full/5304871.jpg" alt="chitoge" border="0"></a>
 
-# **Chitoge : A WhatsApp BOT WITH RICH ANIME FEATURES**
+# **Elay : A WhatsApp BOT WITH RICH CREATION FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
@@ -49,7 +49,7 @@
 
 ### 🟢 WhatsApp Group
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlGNyRC9TMI07r1Fvt9fTU)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KZEG60GfpiX1rPZTfe7nnW)
 
 ## 📄 License
 
